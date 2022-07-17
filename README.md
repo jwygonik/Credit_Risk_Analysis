@@ -12,13 +12,13 @@ The Balanced Accuracy of this model is approximately 65.57%. Precision: (High Ri
 
 
 * ### SMOTE
-![SMOTE Oversampling Results](/Resources/SMOTEOversampling.png)
+![SMOTE Oversampling Results](/Resources/SMOTEOverSampling.png)
 
 The Balanced Accuracy of this model is approximately 66.2%. Precision: (High Risk) = 0.01, (Low Risk) = .99 . Recall: (High Risk) = 0.63, (Low Risk) = 0.69.  
 
 
 * ### UnderSampling
-![Undersampling Results](/Resources/Undersampling.png)
+![Undersampling Results](/Resources/UnderSampling.png)
 
 The Balanced Accuracy of this model is approximately 54.42%. Precision: (High Risk) = 0.01, (Low Risk) = .99 . Recall: (High Risk) = 0.69, (Low Risk) = 0.40.  
 
