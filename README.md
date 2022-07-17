@@ -31,7 +31,7 @@ The Balanced Accuracy of this model is approximately 64.13%. Precision: (High Ri
 * ### Balanced Random Forest Classifier
 ![Balanced Random Forest Classifier Results](/Resources/BalancedRandomForest.png)
 
-The Balanced Accuracy of this model is approximately 78.85%. Precision: (High Risk) = 0.03, (Low Risk) = 1.00 . Recall: (High Risk) = 0.70, (Low Risk) = 0.87.  
+The Balanced Accuracy of this model is approximately 78.85%. Precision: (High Risk) = 0.04, (Low Risk) = 1.00 . Recall: (High Risk) = 0.70, (Low Risk) = 0.87.  
 
 * ### EasyEnsemble AdaBoost Classifier
 ![EasyEnsemble Error](/Resources/EasyEnsembleError.png)
