@@ -39,4 +39,4 @@ The Balanced Accuracy of this model is approximately 78.85%. Precision: (High Ri
 I was unable to calculate the Balanced Accuracy, Recall, and Precision Statistics as I has this reoccuring error. For the time being I decided to move forward with the results I was able to analyze and hope to debug this portion of the code at a later date. 
 
 ## Summary
-I was unable to accurately compare all of the models due to my error with the EasyEnsemble AdaBoost Classifier. Therefore, I am unable to make a clear consensus on the best avenue for accuracy until I am able to debug my code for that portion of the data. 
+Although I was able to switch to the Google CoLab workbook and debug my first issue with the BRF model, I ran into another issue with the EasyEnsemble. Because I could not make it past the final portion of the code, I was unable to accurately compare all of the models due to my error with the EasyEnsemble AdaBoost Classifier. Therefore, I am unable to make a clear consensus on the best avenue for accuracy until I am able to debug my code for that portion of the data. 
